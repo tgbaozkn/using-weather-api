@@ -1,0 +1,25 @@
+{
+  "name": "None",
+  "coord": {
+    "lat": "none",
+    "lon": "none"
+  },
+  "weather": [
+    {
+      "id": 0,
+      "main": "None",
+      "description": "none"
+    }
+  ],
+  "main": {
+    "temp": 0,
+    "humidity": 0,
+    "feels_like": 0
+  },
+  "wind": {
+    "speed": 0
+  },
+  "clouds": {
+    "all": 0
+  }
+}
